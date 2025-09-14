@@ -1,4 +1,4 @@
-# Videolar için Pi Lisansı – Her tür video için (V-Pi-L v1.0) 17-18 Temmuz 2025
+# Videolar için Pi Lisansı – Her türlü Medya İçeriği için (V-Pi-L v1.0) 17-18 Temmuz 2025
 - İsim değiştirildiği ve bu kural kaldıkça(bu satırdaki) lisans değiştirilmesi serbesttir.
 
 Bu lisans, [videoları paylaşan kurum/kişi] tarafından yayımlanan videolar için geçerlidir.
