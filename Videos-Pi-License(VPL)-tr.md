@@ -52,7 +52,7 @@ Aşağıdaki şartlara uyduğunuz sürece bu videoları serbestçe:
 1. **Videolar için**
    - Videonun yanında lisans bir dosya olarak (LICENSE.*format*) verilmelidir. Eğer bu mümkün değilse, video açıklamasına bu lisans metni kopyalanmalıdır.
 2. **Yapay Zekalar için**
-   - Yapay zekaların eğitildiği videolar *veya bazı videolar*, VIDEOS-LICENSE.*format* *veya* SOME-VIDEOS-LICENSE.*format* şeklinde verilmelidir ve açıklamada şu şekilde:
+   - Yapay zekaların eğitildiği videolar *veya bazı videolar*, `VIDEOS-LICENSE.*format*` *,* `SOME-VIDEOS-LICENSE.*format*` *,* `MEDIAS-LICENSE.*format*` *veya* `SOME-MEDIAS-LICENSE.*format*` şeklinde verilmelidir ve açıklamada şu şekilde:
    Bu modelin eğitildiği videoların lisansı V-Pi-L'dir.
    *format*'a örnek: .txt, .md, .html, *boş doküman*, vb.
 --- Kullanım Şartlarının Sonu
